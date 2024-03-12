@@ -1,6 +1,6 @@
-# The real-time human pose estimation, powered by YOLOv8 with the webcam 
+# Real-time human pose estimation, powered by YOLOv8
 
-This project is dedicated to applying computer vision to deliver a dependable and efficient solution for human pose recognition specifically focusing on measuring the walking speed of cardiac surgery patients in the rehabilitation dorm.
+This project is dedicated to applying computer vision to deliver a dependable and efficient solution for human pose recognition using a state-of-the-art object detection and image segmentation model - YOLOv8.
 
 ## Requirements
 First, we use PyTorch(CPU)
